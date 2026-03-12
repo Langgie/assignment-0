@@ -16,4 +16,4 @@ int main(int argc, char ** argv) {
 ```
 Mengubah Hello World! Menjadi Hello (Input) yang dilakukan user. Karena di README ada 2 kata, jadi saya masukkan hanya untuk max 2 kata untuk input nya.
 
-Mengubah file yang awalnya main.cpp menjadi _MyApp__.cpp sehingga file output mnejadi _MyApp_
+Mengubah file yang awalnya main.cpp menjadi **_MyApp_**.cpp sehingga file output mnejadi **_MyApp_**
